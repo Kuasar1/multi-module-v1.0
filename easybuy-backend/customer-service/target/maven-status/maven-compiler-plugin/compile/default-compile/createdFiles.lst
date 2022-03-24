@@ -1,0 +1,9 @@
+mn\easybuy\customerservice\CustomerServiceApplication.class
+mn\easybuy\customerservice\service\OnboardService.class
+mn\easybuy\customerservice\controller\CustomerController.class
+mn\easybuy\customerservice\entity\Role.class
+mn\easybuy\customerservice\repository\CustomerRepository.class
+mn\easybuy\customerservice\utils\Status.class
+mn\easybuy\customerservice\entity\Customer.class
+mn\easybuy\customerservice\repository\RoleRepository.class
+mn\easybuy\customerservice\service\CustomerService.class
